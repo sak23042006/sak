@@ -1,0 +1,16 @@
+body{
+    background-color: gold;
+}
+img{
+    width: 400px;
+}
+footer{
+    text-align: center;
+}
+li{
+    font-size: 160%;
+}
+img.aa{
+    object-position:50%;
+    width: 200px;
+}
